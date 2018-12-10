@@ -91,6 +91,12 @@ So, here we go...
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# Demo
+
+Run all code snippets interactively in this online demo:
+
+[![](https://cdn-images-1.medium.com/max/1600/1*cI91DR6og9iF06hBrHKINg.png)](http://notebooks.rmotr.com/demo/gh/martinzugnoni/wtfpython)
+
 # Structure of the Examples
 
 All the examples are structured like below:
